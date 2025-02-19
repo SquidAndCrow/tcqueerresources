@@ -1,0 +1,35 @@
+{ "resources" : 
+    [
+        {
+            "title" : "Tumbleweird",
+            "link" : "https://tumbleweird.org",
+            "description" : "<p>Tumbleweird exists to bring together a more diverse, creative, and progressive community than Eastern Washington gets credit for, in order to connect, highlight, and encourage the betterment of our area.</p><p>We do this by publishing a community-driven paper that uncovers the region’s true identity in a way that’s always positive, often irreverent, and never timid.</p>",
+            "tags" : ["Art", "Entertainment","Local News","Local Events"]
+        },
+        {
+            "title" : "Hot Mess Burgers &amp; Fries",
+            "link" : "https://www.facebook.com/hotmessburgersandfries",
+            "description" : "<p>A rebel burger shop out of a little truck in Downtown Kennewick! Our burgers are what happens when chefs with over 40 combined years culinary experience a food truck </p><p>Buns baked fresh everyday, American cheese made from scratch, our own ketchup recipe and so much more sets these apart from your normal burger experience!</p><p>Also-queer owned. Our Trans-woman executive chef and owner has made sure that this is a safe place for all to show up as their authentic selves!</p>",
+            "tags" : ["Food"]
+        },
+        {
+            "title" : "PFLAG Benton-Franklin Resources",
+            "link" : "https://docs.google.com/spreadsheets/d/1eJrXj81Pf1FnsSViiefMTJcL7tERpVvb/",
+            "description" : "<p>A ton of resources ranging from counseling and medica services, tattoo artists, professional services, social media groups, and third spaces</p>",
+            "tags" : ["Resource Listing"]
+        },
+        {
+            "title" : "Spectrum Counseling's LGBTQIA2+ Resource List",
+            "link" : "https://www.kadesharp.com/lgbtq",
+            "description" : "<p>Several local and national resources maintained by Dr. Kade Sharp</p>",
+            "tags" : ["Resource Listing","Support Groups"]
+        },
+        {
+            "title" : "The Trevor Project",
+            "link" : "https://www.thetrevorproject.org/get-help/",
+            "description" : "<p>If you are thinking about harming yourself — get immediate crisis support. Connect to a crisis counselor 24/7, 365 days a year, from anywhere in the U.S via text, chat, or phone. The Trevor Project is 100% confidential and 100% free.</p>",
+            "tags" : ["Crisis Support"],
+            "phone" : "1-866-488-7386"
+        }
+    ]
+}

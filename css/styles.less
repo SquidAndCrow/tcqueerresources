@@ -1,0 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&display=swap');
+
+
+/* Rainbow Theme */
+
+:root {
+    --red: #FF595E;
+    --red-text: #ffe3e3;
+    --orange: #FF924C;
+    --orange-text: #ffe5d0;
+    --yellow: #FFCA3A;
+    --yellow-text: #fff5cc;
+    --green: #8AC926;
+    --green-text: #eaffd0;
+    --blue: #1982C4;
+    --blue-text: #d0f0ff;
+    --indigo: #6A4C93;
+    --indigo-text: #e3d0ff;
+    --violet: #B23AEE;
+    --violet-text: #f5d9ff;
+    --pink: #FF69B4;
+    --pink-text: #ffd6eb;
+    --teal: #20B2AA;
+    --teal-text: #d0f5f2;
+    --lime: #BFFF00;
+    --lime-text: #556600;
+    --cyan: #00FFFF;
+    --cyan-text: #005555;
+    --gold: #FFD700;
+    --gold-text: #665500;
+    --magenta: #FF00FF;
+    --magenta-text: #550055;
+    --azure: #007FFF;
+    --azure-text: #cce6ff;
+    --rose: #FF007F;
+    --rose-text: #55002f;
+    --coral: #FF7F50;
+    --coral-text: #552f25;
+    --amber: #FFBF00;
+    --amber-text: #664400;
+    --lavender: #E6E6FA;
+    --lavender-text: #3d3d5a;
+    --turquoise: #40E0D0;
+    --turquoise-text: #004d4a;
+    --peach: #FFDAB9;
+    --peach-text: #664d3b;
+    --olive: #808000;
+    --olive-text: #ffffcc;
+    --platinum: #E5E4E2;
+    --platinum-text: #333333;
+    --background-gradient: linear-gradient(135deg, var(--red), var(--orange), var(--yellow), var(--green), var(--blue), var(--indigo), var(--violet));
+    --text-color: #ffffff;
+    --card-bg: rgba(255, 255, 255, 0.2);
+    --border-color: rgba(255, 255, 255, 0.5);
+  }
+
+body {
+    background-image: url('/img/bg.png');
+    font-family: "Quicksand", sans-serif;
+    margin-top: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", serif;
+    a {
+        text-decoration: none;
+    }
+}
+
+.logo {
+    width: 100%;
+}
+
+ul.tags {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    li {
+        display: inline
+    }
+}
+
+a.tag {
+    cursor: pointer;
+    display: inline-block;
+    margin-bottom: .2em;
+}
+
+.tag {
+    font-size: .8em;
+    font-weight: bold;
+    padding: .2em .4em;
+    background-color: #777;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.tag.red { background: var(--red); color: var(--red-text); }
+.tag.orange { background: var(--orange); color: var(--orange-text); }
+.tag.yellow { background: var(--yellow); color: var(--yellow-text); }
+.tag.green { background: var(--green); color: var(--green-text); }
+.tag.blue { background: var(--blue); color: var(--blue-text); }
+.tag.indigo { background: var(--indigo); color: var(--indigo-text); }
+.tag.violet { background: var(--violet); color: var(--violet-text); }
+.tag.pink { background: var(--pink); color: var(--pink-text); }
+.tag.teal { background: var(--teal); color: var(--teal-text); }
+.tag.lime { background: var(--lime); color: var(--lime-text); }
+.tag.cyan { background: var(--cyan); color: var(--cyan-text); }
+.tag.gold { background: var(--gold); color: var(--gold-text); }
+.tag.magenta { background: var(--magenta); color: var(--magenta-text); }
+.tag.azure { background: var(--azure); color: var(--azure-text); }
+.tag.rose { background: var(--rose); color: var(--rose-text); }
+.tag.coral { background: var(--coral); color: var(--coral-text); }
+.tag.amber { background: var(--amber); color: var(--amber-text); }
+.tag.lavender { background: var(--lavender); color: var(--lavender-text); }
+.tag.turquoise { background: var(--turquoise); color: var(--turquoise-text); }
+.tag.peach { background: var(--peach); color: var(--peach-text); }
+.tag.olive { background: var(--olive); color: var(--olive-text); }
+.tag.platinum { background: var(--platinum); color: var(--platinum-text); }
