@@ -17,8 +17,9 @@ $(document).ready(function(e){
     iconMap.set("entertainment", "game-pad");
     iconMap.set("local-news", "newspaper-o");
     iconMap.set("local-events", "ticket");
+    iconMap.set("resource-listing", "wrench");
     iconMap.set("crisis-support", "phone");
-    iconMap.set("support-groups", "people");
+    iconMap.set("support-groups", "users");
 
     let resourcesAndTagsMap = new Map();
 
