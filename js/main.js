@@ -9,6 +9,7 @@ $(document).ready(function(e){
     colorTagMap.set("resource-listing", "coral");
     colorTagMap.set("crisis-support", "amber");
     colorTagMap.set("support-groups", "pink");
+    colorTagMap.set("third-space", "lime");
 
     let iconMap = new Map();
 
@@ -20,6 +21,7 @@ $(document).ready(function(e){
     iconMap.set("resource-listing", "wrench");
     iconMap.set("crisis-support", "phone");
     iconMap.set("support-groups", "users");
+    iconMap.set("third-space", "gratipay");
 
     let resourcesAndTagsMap = new Map();
 

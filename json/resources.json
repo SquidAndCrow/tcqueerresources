@@ -10,7 +10,7 @@
             "title" : "Hot Mess Burgers &amp; Fries",
             "link" : "https://www.facebook.com/hotmessburgersandfries",
             "description" : "<p>A rebel burger shop out of a little truck in Downtown Kennewick! Our burgers are what happens when chefs with over 40 combined years culinary experience run a food truck.</p><p>Buns baked fresh everyday, American cheese made from scratch, our own ketchup recipe and so much more sets these apart from your normal burger experience!</p><p>Also-queer owned. Our Trans-woman executive chef and owner has made sure that this is a safe place for all to show up as their authentic selves!</p>",
-            "tags" : ["Food"]
+            "tags" : ["Food","Third Space"]
         },
         {
             "title" : "PFLAG Benton-Franklin Resources",
@@ -30,6 +30,13 @@
             "description" : "<p>If you are thinking about harming yourself — get immediate crisis support. Connect to a crisis counselor 24/7, 365 days a year, from anywhere in the U.S via text, chat, or phone. The Trevor Project is 100% confidential and 100% free.</p>",
             "tags" : ["Crisis Support"],
             "phone" : "1-866-488-7386"
+        },
+        {
+            "title" : "Blackthorne Neighborhood Pub",
+            "link" : "https://www.facebook.com/Blackthornepub",
+            "description" : "<p>An all ages space with food and drinks (alcohol optional), that welcomes queer folks and actively advocates for acceptance and the removal of bullying and harassment from the establishment. Regularly has live music, trivia, karaoke and other events to encourage fraternization.</p>",
+            "tags" : ["Food", "Third Space"],
+            "phone" : "509-582-8067"
         }
     ]
 }
