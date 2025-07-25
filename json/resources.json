@@ -10,19 +10,22 @@
             "title" : "Hot Mess Burgers &amp; Fries",
             "link" : "https://www.facebook.com/hotmessburgersandfries",
             "description" : "<p>A rebel burger shop out of a little truck in Downtown Kennewick! Our burgers are what happens when chefs with over 40 combined years culinary experience run a food truck.</p><p>Buns baked fresh everyday, American cheese made from scratch, our own ketchup recipe and so much more sets these apart from your normal burger experience!</p><p>Also-queer owned. Our Trans-woman executive chef and owner has made sure that this is a safe place for all to show up as their authentic selves!</p>",
+            "address" : "212 W Kennewick Ave, Kennewick, WA 99336",
             "tags" : ["Food","Third Space"]
         },
         {
             "title" : "PFLAG Benton-Franklin Resources",
             "link" : "https://docs.google.com/spreadsheets/d/1eJrXj81Pf1FnsSViiefMTJcL7tERpVvb/",
             "description" : "<p>A ton of resources ranging from counseling and medica services, tattoo artists, professional services, social media groups, and third spaces</p>",
-            "tags" : ["Resource Listing"]
+            "tags" : ["Resource Listing"],
+            "address" : "719 Jadwin Ave, Ste 24, Richland WA, 99352"
         },
         {
             "title" : "Spectrum Counseling's LGBTQIA2+ Resource List",
             "link" : "https://www.kadesharp.com/lgbtq",
             "description" : "<p>Several local and national resources maintained by Dr. Kade Sharp</p>",
-            "tags" : ["Resource Listing","Support Groups"]
+            "tags" : ["Resource Listing","Support Groups"],
+            "address" : "1201 Jadwin Ave ste 104, Richland, WA 99352"
         },
         {
             "title" : "The Trevor Project",
@@ -36,21 +39,24 @@
             "link" : "https://www.facebook.com/Blackthornepub",
             "description" : "<p>An all ages space with food and drinks (alcohol optional), that welcomes queer folks and actively advocates for acceptance and the removal of bullying and harassment from the establishment. Regularly has live music, trivia, karaoke, board gaming, and other events to encourage fraternization.</p>",
             "tags" : ["Food", "Third Space"],
-            "phone" : "509-582-8067"
+            "phone" : "509-582-8067",
+            "address" : "201 W Kennewick Ave, Kennewick, WA 99336"
         },
         {
             "title" : "The Emerald of Siam",
             "link" : "https://www.emeraldofsiam.com/",
             "description" : "<p>The Emerald of Siam is a Live Music Venue and Thai Restaurant located in Uptown Richland, and Tri City Cultural Hub. Most of the menu is gluten-free, dairy-free, and msg-free and they offer a variety of proteins and have many vegetarian and vegan options. Events include dinner shows and late night performances along with trivia, open mic nights, and jazz and acoustic music nights. The Emerald of Siam has a strong community focus and they treat everyone like family.</p>",
             "tags" : ["Food", "Local Events"],
-            "phone" : "509-946-9328"
+            "phone" : "509-946-9328",
+            "address" : "1314 Jadwin Ave, Richland, WA 99354"
         },
         {
             "title" : "Aub's Lounge",
             "link" : "https://aubslounge.com/",
             "description" : "<p>Aub’s Lounge is your go-to social hub for adults right here in Tri-Cities! A non-alcoholic space just for us! We’re home to Aub’s Bananza Bread—gourmet banana bread with a rotating menu featuring over 30 unique flavors. A Spoken Space: Poetry/Open Mic, created by Impact Poet Ms. Jurudawise, is hosted here every week.</p><p>Aub's Sumptuous Soups are available weekly as well with a rotating menu of gourmet, made-from-scratch soups. Plus, we offer occasional Dinner and a Show specials that are perfect for an unforgettable night out.</p><p>At Aub's Lounge, we host several events each month that provide a refreshing alternative to traditional bar scenes—fostering genuine human connection and creating unforgettable experiences. This is also a stunning event venue loved by those who book private events or even hold photoshoots here!</p><p>With cozy seating, a reading nook, and an intimate stage for self-expression, it’s the perfect place to unwind, connect, and have fun.</p>",
             "tags" : ["Food", "Local Events","Art"],
-            "phone" : "509-420-4325"
+            "phone" : "509-420-4325",
+            "address" : "710 George Washington Way Suite AA, Richland, WA 99352"
         },
         {
             "title" : "Tri-Cities Pride",
@@ -69,6 +75,364 @@
             "link" : "https://tricitieswa.lgbt",
             "description" : "<p>Link to the local LGBTQ+ Discord for the Tri-Cities, WA, and surrounding areas.</p>",
             "tags" : ["Support Groups","Online Communities"]
+        },
+        {
+            "title": "Lisa Ronning-Dickson",
+            "affiliation": "Ronning-Dickson Counseling",
+            "link": "https://ronningdickson.com",
+            "phone": "(509) 792-0277",
+            "address": "750 Swift Blvd, Ste 20, Richland, WA",
+            "description": "Unable to write letters recommending surgery",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Aphrodite Beidler",
+            "affiliation": "Riverwalk Counseling",
+            "link": "https://riverwalkcounseling.com",
+            "phone": "(443) 869-0357",
+            "address": "404 Bradley Blvd #205, Richland, WA",
+            "description": "",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Dr. Prama Chakravarti",
+            "affiliation": "Prama Psychology",
+            "link": "https://pramapsychology.com",
+            "phone": "(425) 531-8541",
+            "address": "Sammamish, WA",
+            "description": "Virtual only",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "NPS Psychological Services",
+            "affiliation": "NPS Psychological Services",
+            "link": "",
+            "phone": "(509) 213-1513",
+            "address": "3311 W Clearwater Ave, Ste C-200d, Kennewick, WA",
+            "description": "",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Emily Richman",
+            "affiliation": "Private Practice",
+            "link": "https://emilyrichman.com",
+            "phone": "",
+            "address": "8927-A W Tucannon Ave, Ste 105, Kennewick, WA",
+            "description": "Contact form on website",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Lycan Counseling",
+            "affiliation": "Lycan Counseling",
+            "link": "https://lycancounseling.com",
+            "phone": "(509) 205-5559",
+            "address": "",
+            "description": "Exclusively telehealth at this time",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Heather Holben",
+            "affiliation": "Holben Counseling",
+            "link": "https://heatherholbencounseling.com",
+            "phone": "(509) 430-9751",
+            "address": "8927-A W Tucannon Ave, Ste 105, Kennewick, WA",
+            "description": "",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Madrigal Counseling",
+            "affiliation": "Madrigal Counseling",
+            "link": "https://madrigalcounseling.com/",
+            "phone": "(541) 595-8261",
+            "address": "1201 Jadwin Ave, Ste 102, Richland, WA",
+            "description": "",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Unique Approach Family Therapy",
+            "affiliation": "Unique Approach Family Therapy",
+            "link": "https://uniqueapproachfamilytherapy.com",
+            "phone": "(509) 554-4006",
+            "address": "1201 Jadwin Ave, Ste 104, Richland, WA",
+            "description": "Accepting new clients",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Peterson Counseling Services",
+            "affiliation": "Peterson Counseling Services",
+            "link": "",
+            "phone": "(509) 956-4640",
+            "address": "1305 Mansfield St, Ste 3, Richland, WA",
+            "description": "Specializes in geriatric mental health",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Simpson Counseling",
+            "affiliation": "Simpson Counseling",
+            "link": "https://simpson-counseling.com",
+            "phone": "(509) 214-2867",
+            "address": "723 The Parkway #11, Richland, WA",
+            "description": "",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Brandy Counseling",
+            "affiliation": "Brandy Counseling",
+            "link": "https://brandycounseling.com",
+            "phone": "(509) 492-1108",
+            "address": "9825 Sandifur Pkwy, Ste D, Pasco, WA",
+            "description": "brandycounseling@gmail.com",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Cultivate Connection Counseling",
+            "affiliation": "Cultivate Connection Counseling",
+            "link": "https://cultivateconnectioncounseling.com",
+            "phone": "(541) 595-8261",
+            "address": "1201 Jadwin Ave, Ste 102, Richland, WA",
+            "description": "",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Purple Rose Counseling",
+            "affiliation": "Purple Rose Counseling",
+            "link": "https://purplerosecounseling.com",
+            "phone": "(509) 942-8054",
+            "address": "1201 Jadwin Ave, Ste 104, Richland, WA",
+            "description": "purplerosecounseling@gmail.com",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Noahloni Garcia",
+            "affiliation": "Noahloni Counseling Services",
+            "link": "https://therapyden.com/therapist/noahloni-garcia-richland-wa",
+            "phone": "(509) 559-2278",
+            "address": "Spokane, WA",
+            "description": "Bilingual in English and Spanish, telehealth only",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "SISU Health Clinic",
+            "affiliation": "SISU Health Clinic",
+            "link": "https://sisuhealthclinic.com/",
+            "phone": "(509) 578-1019",
+            "address": "945 Stevens Dr, Richland, WA",
+            "description": "",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+          {
+            "title": "Anchor Point Counseling PLLC",
+            "affiliation": "Anchor Point Counseling PLLC",
+            "link": "https://www.anchorpointcounselingpllc.com",
+            "phone": "(509) 593-8122 x503",
+            "address": "1933 Jadwin Ave, Ste 120, Richland, WA",
+            "description": "in-person and telehealth, M-Th",
+            "tags": [
+              "Mental Health"
+            ]
+          },
+        {
+            "title": "Dr. Thomas Sorensen",
+            "affiliation": "Kadlec",
+            "phone": "(509) 942-3291",
+            "address": "9040 W Clearwater Ave, Kennewick, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Samantha Viramontes",
+            "affiliation": "Kadlec",
+            "phone": "(509) 942-2516",
+            "address": "940 Northgate Dr, Richland, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Natalia Luera",
+            "affiliation": "Kadlec",
+            "phone": "(509) 942-2516",
+            "address": "940 Northgate Dr, Richland, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Jessica Togiai",
+            "affiliation": "Kadlec",
+            "phone": "(509) 942-3291",
+            "address": "9040 W Clearwater Ave, Kennewick, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Jeffrey Kiki",
+            "affiliation": "Kadlec",
+            "phone": "(509) 942-3130",
+            "address": "3950 Keene Rd, West Richland, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Shannon Phipps",
+            "affiliation": "Kadlec",
+            "phone": "(509) 942-3286",
+            "address": "560 Gage Blvd, Ste 101, Richland, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Scott Roberts, ARNP",
+            "affiliation": "Kadlec",
+            "phone": "(509) 942-3125",
+            "address": "3900 S Zintel Way, Kennewick, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Jessica Almaguer",
+            "affiliation": "Kadlec",
+            "phone": "(509) 942-3291",
+            "address": "9040 W Clearwater Ave, Kennewick, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Stephanie Wheeler",
+            "affiliation": "Tri-Cities Community Health",
+            "phone": "(509) 547-2204",
+            "address": "3180 W Clearwater Ave, Kennewick, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Brooks Watson",
+            "affiliation": "Tri-Cities Community Health",
+            "phone": "(509) 543-2792",
+            "address": "829 Goethals Dr, Richland, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Jennifer Smith",
+            "affiliation": "Trios",
+            "phone": "(509) 221-6450",
+            "address": "3730 Plaza Way, 4th Floor, Kennewick, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Mary Grace Hipolito",
+            "affiliation": "Trios",
+            "phone": "(509) 221-6930",
+            "address": "7211 W Deschutes Blvd, Ste B, Kennewick, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Whitney Fix-Lanes",
+            "affiliation": "Trios",
+            "phone": "(509) 221-5520",
+            "address": "320 W 10th Ave, Kennewick, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Deborah Gore",
+            "affiliation": "Providence",
+            "phone": "(509) 324-6464",
+            "address": "322 W North River Dr, Spokane, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Jessica Schneider",
+            "affiliation": "Empowered Health Institute",
+            "phone": "(509) 392-7047",
+            "address": "503 Knight St, Ste B",
+            "description": "Richland, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr. Aaron Cheng",
+            "affiliation": "Miramar Health Center",
+            "phone": "(509) 783-1960",
+            "address": "6351 W Rio Grande Ave, Kennewick, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "PA-C Vannina Gwilliam",
+            "affiliation": "Kadlec Regional Medical Center",
+            "phone": "(509) 543-9280",
+            "address": "6351 W Rio Grande Ave, Kennewick, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Dr Samantha Viramontes",
+            "affiliation": "Kadlec Family Medicine Residency",
+            "phone": "(509) 942-2516",
+            "address": "940 Northgate Dr, Richland, WA",
+            "tags": [
+            "Primary Care"
+            ]
+        },
+        {
+            "title": "Tri-City Area Gaming",
+            "link": "https://www.tricityareagaming.org",
+            "description": "Tri-City Area Gaming (TAG) is a 501c3 non-profit that believes in promoting open gaming, and events for everyone. We host board game, RPG, educational, and other tabletop-related events in the Tri-Cities, WA area throughout the year.",
+            "tags": [
+            "In-Person Communities"
+            ]
         }
     ]
 }

@@ -11,6 +11,9 @@ $(document).ready(function(e){
     colorTagMap.set("support-groups", "pink");
     colorTagMap.set("third-space", "lime");
     colorTagMap.set("online-communities", "gold");
+    colorTagMap.set("mental-health", "rose");
+    colorTagMap.set("primary-care", "lavender");
+    colorTagMap.set("in-person-communities", "turquoise");
 
     let iconMap = new Map();
 
@@ -24,6 +27,9 @@ $(document).ready(function(e){
     iconMap.set("support-groups", "users");
     iconMap.set("third-space", "gratipay");
     iconMap.set("online-communities", "laptop");
+    iconMap.set("mental-health", "commenting-o");
+    iconMap.set("primary-care", "medkit");
+    iconMap.set("in-person-communities", "globe");
 
     let resourcesAndTagsMap = new Map();
 
@@ -102,10 +108,15 @@ $(document).ready(function(e){
             
             let msg = `
             <div class="resource" data-tags="${localTagArray.join(',')}">
-                    <h3><a href="${item.link}" target="_blank">${item.title}</a></h3>
+                    <h3>${item.link ? `<a href="${item.link}" target="_blank">${item.title}</a>` : item.title}</h3>
+                    ${(item.affiliation) ? '<p><i class="fa fa-handshake-o"></i> '+item.affiliation+'</p>' : ''
+                    } 
                     ${(item.phone) ? '<p><i class="fa fa-phone"></i> <a href="tel:' + item.phone + '">'+item.phone+'</a></p>' : ''
                     } 
-                    <p>${item.description}</p>
+                    ${(item.address) ? '<p><i class="fa fa-map-marker"></i> <a href="https://www.google.com/maps/place/' +item.address  + '">'+item.address+'</a></p>' : ''
+                    } 
+                    ${(item.description) ? '<p> '+item.description+'</p>' : ''
+                    } 
                     <ul class="tags">
                         ${tagBullets}
                     </ul>
