@@ -10,6 +10,7 @@ $(document).ready(function(e){
     colorTagMap.set("crisis-support", "amber");
     colorTagMap.set("support-groups", "pink");
     colorTagMap.set("third-space", "lime");
+    colorTagMap.set("online-communities", "gold");
 
     let iconMap = new Map();
 
@@ -22,6 +23,7 @@ $(document).ready(function(e){
     iconMap.set("crisis-support", "phone");
     iconMap.set("support-groups", "users");
     iconMap.set("third-space", "gratipay");
+    iconMap.set("online-communities", "laptop");
 
     let resourcesAndTagsMap = new Map();
 
